@@ -1,2 +1,174 @@
 # reality-terms-of-use
 B2C Terms of Use
+Reality App – Terms of Use
+
+Last Updated: November 27, 2025
+
+Welcome to Reality (“the App”), owned and operated by Reality LLC, a Washington-based limited liability company with headquarters in Seattle, Washington, USA (“Reality,” “we,” “us,” or “our”).
+
+These Terms of Use (“Terms”) govern your access to and use of the Reality mobile application, website, and related services (collectively, the “Services”).
+
+By downloading, accessing, or using Reality, you agree to be bound by these Terms. If you do not agree, you must not install or use the App.
+
+1. Definitions
+
+For clarity:
+
+“App” refers to the Reality mobile application and all software, features, and functionalities included in it.
+
+“Services” include all digital, interactive, and community-based features offered through the App or related channels.
+
+“User” or “you” refers to any person accessing or using the App.
+
+“User Content” means any data, photos, text, comments, or materials that you upload, post, or otherwise share through the App.
+
+“Reality LLC” refers to the legal entity registered in Washington State, USA, that owns and operates Reality.
+
+2. License and Access
+
+Reality grants you a limited, non-exclusive, non-transferable, revocable license to install and use the App on your personal device for lawful, personal, non-commercial use only.
+
+You may not:
+
+Copy, modify, reverse-engineer, or attempt to extract the source code of the App;
+
+Sell, sublicense, distribute, or transfer the App to others;
+
+Use Reality in any unlawful or harmful manner.
+
+All rights not expressly granted remain the exclusive property of Reality LLC.
+
+3. Eligibility
+
+To use Reality, you must be at least 16 years old (or the minimum legal age in your jurisdiction to consent to digital services).
+
+If you are using the App on behalf of another person or entity, you represent that you have authority to bind them to these Terms.
+
+4. User Accounts and Security
+
+Some features of Reality require you to create an account. You agree to:
+
+Provide accurate and up-to-date information;
+
+Keep your login credentials secure;
+
+Notify us immediately at support@joinreality.com
+ if you suspect unauthorized use of your account.
+
+Reality is not responsible for any loss or damage arising from unauthorized access caused by your failure to safeguard your credentials.
+
+5. Acceptable Use
+
+By using Reality, you agree not to:
+
+Upload, post, or share content that is unlawful, obscene, harassing, or infringing on others’ rights;
+
+Use Reality to impersonate others or misrepresent your identity;
+
+Attempt to disrupt, hack, or interfere with the App’s security or functionality;
+
+Use Reality for commercial promotion, spam, or solicitation without written consent.
+
+Reality reserves the right to remove any content or terminate any account that violates these rules.
+
+6. Payments, Bookings, and Refunds
+
+Reality allows users to book sports sessions, events, or tournaments, and make payments for such services through the App.
+
+All prices are displayed in the local currency and include applicable taxes unless stated otherwise.
+
+Payments are processed through trusted third-party processors (e.g., Stripe, Konnect). Reality does not store payment card details.
+
+All bookings are final and non-refundable unless otherwise required by applicable law or specified by the partner facility’s refund policy.
+
+Any disputes regarding payments or bookings with third-party facilities must be resolved directly with the facility.
+
+7. Intellectual Property
+
+All trademarks, graphics, logos, content, and code related to Reality are the exclusive property of Reality LLC or its licensors.
+
+You retain ownership of any User Content you upload, but by doing so, you grant Reality a worldwide, royalty-free, sublicensable license to use, reproduce, modify, and display your content as necessary to operate and improve the App.
+
+You represent that you have full rights to any User Content you share and that it does not infringe any third-party rights.
+
+8. Privacy and Data Protection
+
+Your privacy matters to us. The collection, use, and storage of your personal data are governed by our [Privacy Policy], which is incorporated by reference into these Terms.
+
+By using Reality, you consent to our processing of your data in accordance with that policy.
+
+We comply with applicable data protection laws, including the U.S. Privacy Act, GDPR (where applicable), and related regulations.
+
+9. Disclaimers
+
+Reality strives to offer a safe, reliable platform, but:
+
+The App and Services are provided “as is” and “as available” without any warranties of any kind.
+
+We do not guarantee uninterrupted, error-free operation or that the App will be free of viruses or defects.
+
+Reality disclaims all implied warranties, including merchantability, fitness for a particular purpose, and non-infringement.
+
+You use Reality at your own risk.
+
+10. Limitation of Liability
+
+To the maximum extent permitted by law, Reality LLC, its affiliates, officers, employees, and partners shall not be liable for any:
+
+Indirect, incidental, special, or consequential damages;
+
+Loss of profits, data, goodwill, or reputation;
+
+Damages arising from your use or inability to use the App or Services.
+
+In all cases, our total liability to you will not exceed USD $100 or the total amount you paid to Reality in the 12 months preceding the claim — whichever is greater.
+
+11. Termination
+
+We may suspend or terminate your account or access to Reality at any time, with or without notice, if we believe you have violated these Terms or engaged in harmful behavior.
+
+Upon termination:
+
+Your right to use the App immediately ceases;
+
+We may delete or deactivate your account;
+
+Certain obligations (e.g., intellectual property, limitation of liability, governing law) will continue to apply.
+
+12. Updates and Modifications
+
+Reality may modify these Terms at any time. The latest version will always be available in the App or on our website.
+
+If we make significant changes, we will notify you within the App or by email.
+
+Your continued use of Reality after any update constitutes acceptance of the revised Terms.
+
+13. Governing Law and Dispute Resolution
+
+These Terms are governed by the laws of the State of Washington, USA, without regard to its conflict of laws principles.
+
+Any disputes arising out of or relating to these Terms or your use of Reality shall be resolved exclusively in the state or federal courts located in King County, Washington.
+
+You consent to the personal jurisdiction and venue of those courts.
+
+14. Contact Information
+
+If you have any questions, feedback, or legal inquiries, please contact us:
+
+Reality LLC
+Seattle, Washington, USA
+📧 support@reality-co.com
+
+🌐 www.reality-co.com
+
+15. Miscellaneous
+
+Entire Agreement: These Terms constitute the full agreement between you and Reality and supersede any prior agreements.
+
+Severability: If any clause is found unenforceable, the remaining provisions remain in full force.
+
+Waiver: Failure to enforce any term shall not be a waiver of that term.
+
+Assignment: You may not transfer your rights or obligations under these Terms. Reality may assign its rights without restriction.
+
+Reality LLC — Play Real. Stay Connected.
